@@ -1,0 +1,20 @@
+---
+output: github_document
+---
+
+```{r, include = F}
+knitr::opts_chunk$set(
+  collapse = F,
+  fig.path = "man/figs/rforclimHexSticker.png",
+  out.width = "100%"
+)
+options(tibble.print_min = 5, tibble.print_max = 5)
+```
+
+
+## Overview
+
+rforclim official repository for binary files
+
+---
+Please note that this project is protected under GLP-3 license
